@@ -1,3 +1,5 @@
+#Informa o que fazer quando a verificação de uma condição if for falsa.
+
 day = 'Saturday' 
 
 if day == 'Sunday' 

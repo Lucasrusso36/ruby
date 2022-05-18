@@ -8,3 +8,5 @@ def compare(a, b)
  result = compare(a, b)
  
  puts "O resultado da comparação é '#{result}'"
+
+ #O retorno de um método ruby é sempre o resultado de sua última instrução.

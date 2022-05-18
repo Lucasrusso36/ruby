@@ -1,3 +1,5 @@
+#Instrução muito parecida com o if. Ele se enquadra muito bem a situações com diversas condições.
+
 puts 'Digite o número do mês em que você nasceu?'
 
 month = gets.chomp.to_i

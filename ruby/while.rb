@@ -1,3 +1,5 @@
+#Instrução que repete um bloco de código enquanto sua condição é verdadeira.
+
 x = 1 
 
 while x < 10

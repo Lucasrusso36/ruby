@@ -1,3 +1,5 @@
+#Enquanto o if é executado quando sua condição é verdadeira, o unless ocorre de forma contrária. É executado apenas quando a condição é falsa.
+
 product_status = 'closed'
 
 unless product_status == 'open'

@@ -1,3 +1,5 @@
+#Iteração + Condicional
+
 result = ''
 loop do
   puts result 

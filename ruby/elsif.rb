@@ -1,3 +1,5 @@
+#Utilizado quando há a necessidade de verificar mais de uma condição em um if.
+
 day = 'Holiday' 
 
 if day == 'Sunday' 

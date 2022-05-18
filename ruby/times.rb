@@ -1,3 +1,5 @@
+#Executa uma repetição por um especificado número de vezes.
+
 2.times do
   puts 'Estou aprendendo times!'
 end
